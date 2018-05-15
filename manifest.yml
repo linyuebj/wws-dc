@@ -1,0 +1,6 @@
+---
+applications:
+- name: gcg-demo
+  memory: 256M
+  host: gcg-demo
+  domain: mybluemix.net

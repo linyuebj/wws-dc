@@ -1,1 +1,1 @@
-# wws-dc
+# gcg-demo
